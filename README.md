@@ -1,6 +1,8 @@
 # Homework_1
 Homework #1: FinTech Case Study - Square
 
+![alt text](https://logos-download.com/wp-content/uploads/2020/06/Square_Logo.png)
+
 # Square Case Study
 
 This repository contains....
@@ -11,8 +13,6 @@ This repository contains....
 4. XXX
 5. XXX
 
-#
-
 ## Table of Contents
 
 - [Company Overview & Origin](#Company-Overview-&-Origin)
@@ -22,8 +22,6 @@ This repository contains....
 - [Recent Acquisitions & Potential Future Products](#Recent-Acquisitions-&-Potential-Future-Products)
 - [Contributors](#Contributors)
 - [References](#References)
-
-#
 
 ## Company Overview & Origin
 
@@ -50,8 +48,6 @@ How is the company funded? How much funding have they received?
 4. XXX
 5. XXX
 
-#
-
 ## Business Activities
 
 What specific financial problem is the company or project trying to solve?
@@ -61,8 +57,6 @@ What solution does this company offer that their competitors do not or cannot of
 
 Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
-#
-
 ## Company Landscape
 
 What domain of the financial industry is the company in?
@@ -71,8 +65,6 @@ What have been the major trends and innovations of this domain over the last 5-1
 
 What are the other major companies in this domain?
 
-#
-
 ## Business Impact, Core Metrics, & Performance
 
 What has been the business impact of this company so far?
@@ -80,8 +72,6 @@ What has been the business impact of this company so far?
 What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
 How is your company performing relative to competitors in the same domain?
-
-#
 
 ## Recent Acquisitions & Potential Future Products
 
