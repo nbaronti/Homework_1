@@ -1,6 +1,3 @@
-# Homework_1
-Homework #1: FinTech Case Study - Square
-
 ![alt text](https://logos-download.com/wp-content/uploads/2020/06/Square_Logo.png)
 
 # Square Case Study
