@@ -18,9 +18,10 @@ This repository contains....
 - [Company Landscape](#Company-Landscape)
 - [Business Impact, Core Metrics, & Performance](#Business-Impact,-Core-Metrics,-&-Performance)
 - [Recent Acquisitions & Potential Future Products](#Recent-Acquisitions-&-Potential-Future-Products)
+- [Contributors](#Contributors)
+- [References](#References)
 
 ## Company Overview & Origin
----
 
 Name of Company
 
@@ -32,9 +33,12 @@ How did the idea for the company (or project) come about?
 
 How is the company funded? How much funding have they received?
 
+
 > Sample Quote
 
+
 ~ [Quote From XX](http://google.com)
+
 
 1. XXX
 2. XXX
@@ -43,7 +47,6 @@ How is the company funded? How much funding have they received?
 5. XXX
 
 ## Business Activities
----
 
 What specific financial problem is the company or project trying to solve?
 
@@ -53,7 +56,6 @@ What solution does this company offer that their competitors do not or cannot of
 Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
 ## Company Landscape
----
 
 What domain of the financial industry is the company in?
 
@@ -62,7 +64,6 @@ What have been the major trends and innovations of this domain over the last 5-1
 What are the other major companies in this domain?
 
 ## Business Impact, Core Metrics, & Performance
----
 
 What has been the business impact of this company so far?
 
@@ -71,7 +72,6 @@ What are some of the core metrics that companies in this domain use to measure s
 How is your company performing relative to competitors in the same domain?
 
 ## Recent Acquisitions & Potential Future Products
----
 
 If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
