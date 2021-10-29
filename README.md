@@ -88,27 +88,27 @@ As eluded to in the introduction, the primary FinTech domains in which Square op
 
 1. **Enterprise Commerce Solutions**:
 
-- **Major Innovations**: Advanced software & hardware capabilities enable small-to-mid size businesses to streamline in-person sales, simplify web-based sales, and track customer relationships through CRM tools
+    - **Major Innovations**: Advanced software & hardware capabilities enable small-to-mid size businesses to streamline in-person sales, simplify web-based sales, and track customer relationships through CRM tools
 
-- **Top Square Competitors in this Domain**: PayPal Zettle, SumUp, Shopify, Toast (Restaurants), Vend (Retail), Clover
+    - **Top Square Competitors in this Domain**: PayPal Zettle, SumUp, Shopify, Toast (Restaurants), Vend (Retail), Clover
 
 2. **Payments & Billing**:
 
-- **Major Innovations**: Advanced software & hardware capabilities (such as POS systems and other payment acceptance technologies (e.g., NFC)) enable simplified customer payment processing and billing & invoicing.
+    - **Major Innovations**: Advanced software & hardware capabilities (such as POS systems and other payment acceptance technologies (e.g., NFC)) enable simplified customer payment processing and billing & invoicing.
 
-- *Top Square Competitors in this Domain*: PayPal Zettle, SumUp, Shopify, Toast (Restaurants), Vend (Retail), Clover
+    - *Top Square Competitors in this Domain*: PayPal Zettle, SumUp, Shopify, Toast (Restaurants), Vend (Retail), Clover
 
 3. **Online Personal Finance, Banking, & Depositing**
 
-- **Major Innovations**: The introduction of mobile payment & banking apps such as Square's Cash App have revolutionized the way in which people send, spend, deposit, and invest money.  Additionally, banking and lending for small-to-mid size businesses has become much more accesible through programs such as Square Checking, Debit, & Savings.  Through immediate online banking, businesses are able to instantaneously secure loans or access money based on customer sales.
+    - **Major Innovations**: The introduction of mobile payment & banking apps such as Square's Cash App have revolutionized the way in which people send, spend, deposit, and invest money.  Additionally, banking and lending for small-to-mid size businesses has become much more accesible through programs such as Square Checking, Debit, & Savings.  Through immediate online banking, businesses are able to instantaneously secure loans or access money based on customer sales.
 
-- *Top Square Competitors in this Domain*: PayPal, Zelle, Google Pay, Venmo
+    - **Top Square Competitors in this Domain**: PayPal, Zelle, Google Pay, Venmo
 
 4. **Blockchain & Crytocurrencies**
 
-- **Major Innovations**: The introduction of cryptocurrencies over the last 10 years has created an entire ecosystem of mobile payment and investing applications that can be used to buy and sell cryptocurrencies.  Most of these applications enable customers to deposit funds, purchase alternative currencies, and send those currencies cross-border with limited roadblocks due to decentralization.
+    - **Major Innovations**: The introduction of cryptocurrencies over the last 10 years has created an entire ecosystem of mobile payment and investing applications that can be used to buy and sell cryptocurrencies.  Most of these applications enable customers to deposit funds, purchase alternative currencies, and send those currencies cross-border with limited roadblocks due to decentralization.
 
-- *Top Square Competitors in this Domain*: PayPal, Venmo, Coinbase, and other Cryptocurrency Wallets
+    - **Top Square Competitors in this Domain**: PayPal, Venmo, Coinbase, and other Cryptocurrency Wallets
 
 
 ## Business Impact, Core Metrics, & Performance
