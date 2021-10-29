@@ -71,6 +71,10 @@ In an interview with B2B News Network in 2017, Jack Dorsey clearly identified Sq
 
 ~[Jack Dorsey](https://www.b2bnn.com/2017/10/jack-dorsey-sums-squares-competitive-advantage-attracting-independent-merchants/)
 
+In a recent interview with WSJ, Square's CFO, Amrita Ahuja, noted one of Square's key differentiators:
+
+>"We have the ability to sit on both sides of the counter, and figure out the ways that we can add unique value to both the merchant and the consumer in the exchange."
+
 In terms of technology, Square utilizes a handful of programming languages and database techonologies in the development of its software applications.  According to Square's company profile on Stackshare.io, the company uses software development technologies such as (but not limited to):
 
 - **Programming Languages**: Ruby, Javascript, Objective-C
@@ -155,13 +159,21 @@ In addition the company's financial performance, Square's common stock (Ticker: 
 
 ## Recent Acquisitions and Potential Future Products
 
-If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+In recent news, Square has announced two major acquisitions:
 
-Why do you think that offering this product or service would benefit the company?
+1. **Afterpay**: Announced in August 2021, Square agreed to purchase Australian-based "buy now, pay later" firm Afterpay Ltd. for $29B
 
-What technologies would this additional product or service utilize?
+    - **Future Implications for Square**: Square plans to integrate Afterpay into both its Seller POS and Cash App Ecosytems.  "Buy now, pay later" is an attractive category for Square as consumer preferences are shifting away from traditional credit cards.  Additionally, sellers view "buy now, pay later" as an opportunity to increase conversions, increase average order volumes, and acquire new customers.
 
-Why are these technologies appropriate for your solution?
+    - **Technologies**:  While its yet to be seen how exactly Square will integrate Afterpay into its offerings, it's likely that this additional service will be integrated within its POS systems as well as CRM tools for sellers.  This will require enhancements to Square's software-based products and services through various programming lanaguage and database technology upgrades.
+
+2. **Tidal**: Announced in March 2021, Square agreed to purchase Jay-Z's Tidal music stream service for $297M
+
+    - **Future Implications for Square**: Square has yet to launch any new products as a result of its acquisition of Tidal, however many see this acquisition as an opportunity to integrate a platform for artisits into Square's seller ecosystem.  This could include an e-commerce platform for artists along with improved payments and financing for live shows.  
+
+    - **Technologies**: Similar to the acquisition of Afterpay, its likely that this acquisition will result in additional software-based products & services offered by Square.  In addition, there could be additional hardware product offerings for artist sellers.
+
+Outside of its recent acquisitions, Square has also recently announced that it will create a new Bitcoin focused business as well as Bitcoin hardware wallet.
 
 ## Contributors
 
@@ -190,3 +202,9 @@ Why are these technologies appropriate for your solution?
 - [**Nerdwallet**: Top Competitors](https://www.nerdwallet.com/article/small-business/square-competitors)
 - [**2020 Square Shareholder Letter**](https://s27.q4cdn.com/311240100/files/doc_financials/2020/q4/2020-Q4-Shareholder-Letter-Square.pdf)
 - [**2020 Square 10-K Report**](https://s27.q4cdn.com/311240100/files/doc_financials/2020/q4/Square-10K-2020.pdf)
+- [**WSJ Article**: Square's CFO Interview](https://www.wsj.com/articles/square-cfo-bitcoin-afterpay-cashapp-11635359050)
+- [**Motley Fool**: Tidal Acquisition](https://www.fool.com/investing/2021/03/08/square-just-bought-tidal-for-300-million-heres-why/)
+- [**Reuters**: Tidal Acquisition](https://www.reuters.com/business/media-telecom/squares-297-mln-deal-jay-zs-music-service-tidal-may-bring-blockchain-masses-2021-03-04/)
+- [**Reuters**: New Bitcoin Business](https://www.reuters.com/technology/square-create-new-bitcoin-focused-business-2021-07-15/)
+- [**Reuters**: New Bitcoin Hardware Wallet](https://www.reuters.com/business/square-plans-make-hardware-wallet-bitcoin-2021-07-09/)
+- [**Reuters**: Afterpay Acquisition](https://www.reuters.com/technology/square-bags-buy-now-pay-later-firm-afterpay-29-bln-2021-08-02/)
