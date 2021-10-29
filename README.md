@@ -61,7 +61,6 @@ Square offers a suite of products and financial services to help every business 
 ### Beyond Square for Merchants - Other Offerings for Customers of Merchants
 - **Cash App**: Send & spend money, deposit funds, or invest in stocks or Bitcoin through Square's Cash App 
 
-
 While Square's target market is primarily small to medium size businesses in the retail and food/beverage sectors, the company markets solutions for all types of business, no matter the size.  Outside of retail and food/beverage, Square focuses its product marketing efforts on its website towards profressional services (e.g., accountants & other financial advisory services, health & fitness businesses, beauty services, and home & repair businesses) as well as large business.  For large businesses, Square focuses its marketing on deliverying an ecosystem of connected tools enhance the customer experience, simplify business administration & management, and track customer relationships.
 
 In an interview with B2B News Network in 2017, Jack Dorsey clearly identified Square's competitive advantage to other competitors:
@@ -103,17 +102,20 @@ Why are these technologies appropriate for your solution?
 
 ### Contributors
 
-This project exists thanks to all the people who contribute:
+*This project exists thanks to those who contributed:*
 
-Nick Baronti
+**Nick Baronti**
+nabaronti@gmail.com
+847-239-0734
+https://www.linkedin.com/in/nick-baronti/
 
 ### References
 
-- [Square](https://www.investopedia.com/articles/tech/021017/square.asp)
-- [Square](https://talkroute.com/jack-dorsey-mind-behind-twitter-and-square/)
-- [Square](https://www.yahoo.com/now/heres-much-investing-1-000-002148394.html)
-- [Square](https://www.crunchbase.com/organization/square/company_financials)
-- [Square](https://en.wikipedia.org/wiki/Square_(financial_services_company))
-- [Square](https://squareup.com/us/en/about)
-- [Square](https://www.fool.com/investing/2018/11/21/square-stock-history-a-complete-timeline.aspx)
-https://squareup.com/us/en/solutions/run-your-business
+- [**Investopedia**: Square Company Backgroup](https://www.investopedia.com/articles/tech/021017/square.asp)
+- [**Talk Route**: Founding Square](https://talkroute.com/jack-dorsey-mind-behind-twitter-and-square/)
+- [**Yahoo Finance**: Square IPO](https://www.yahoo.com/now/heres-much-investing-1-000-002148394.html)
+- [**Crunchbase**: Square Funding**](https://www.crunchbase.com/organization/square/company_financials)
+- [**Wikipedia**: Square Background & Company Overview**](https://en.wikipedia.org/wiki/Square_(financial_services_company))
+- [**Square Website**: About Square](https://squareup.com/us/en/about)
+- [**Square Website**: Product & Service Offerings](https://squareup.com/us/en/solutions/run-your-business)
+- [**Motley Fool**: Square History & Timeline](https://www.fool.com/investing/2018/11/21/square-stock-history-a-complete-timeline.aspx)
