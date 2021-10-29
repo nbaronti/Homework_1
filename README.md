@@ -4,14 +4,15 @@
 
 This Git repository contains a case study for Square Inc. ("Square"), a financial services and digital payments company based out of San Francisco, CA.  In recent years, Square has established itself as a dominant player in the rapidly evolving FinTech space.  Square offers products and services across various FinTech domains, with significant marketshare in the following areas: 
 
-1. Enterprise Solutions for Payments & Billing
+1. Enterprise Solutions
+2. Payments & Billing
 2. Online Personal Finance, Banking, & Depositing
 3. Blockchain & Crytocurrencies
 
 ## Table of Contents
 
 - [Square Overview & Company Origin](#Square-Overview-&-Company-Origin)
-- [Business Activities](#Business-Activities)
+- [Key Products/Services & Target Market](#Key-Products/Services-&-Target-Market)
 - [Company Landscape](#Company-Landscape)
 - [Business Impact, Core Metrics, & Performance](#Business-Impact,-Core-Metrics,-&-Performance)
 - [Recent Acquisitions & Potential Future Products](#Recent-Acquisitions-&-Potential-Future-Products)
@@ -24,7 +25,7 @@ Square was founded in 2009 by Jack Dorsey and Jim McKelvey.  In the company's in
 
 According to crunchbase.com, Square has raised a total of $601.2M over 11 rounds of venture capital and equity funding to date. The company had several rounds of Series B through E funding in 2010 through 2014 prior to its IPO in November 2015, in which the company raised approximately $243M at an implied market value of approximately $2.9B.
 
-Since it's IPO, Square has evolved its product & service offerings well beyond its initial Square Reader.  Square now offers an extenstive suite of additional digital payment, commerce, and banking solutions for companys of all sizes within varying industries.  In addition, Square has created new products to not only support merchants, but also support the customers of merchants.
+Since it's IPO, Square has evolved its product & service offerings well beyond it's initial Square Reader.  Square now offers an extenstive suite of additional digital payment, commerce, and banking solutions for companies of all sizes within varying industries.  In addition, Square has created new products to not only support merchants, but also support the customers of merchants.
 
 Put simply, the company has a clear goal of creating tools to empower and enrich all people.  An excerpt from the company's website states the following:
 
@@ -33,12 +34,42 @@ Put simply, the company has a clear goal of creating tools to empower and enrich
 
 ~via [Square](https://squareup.com/us/en/about)
 
-## Business Activities
+## Key Products/Services & Target Market 
 
-What specific financial problem is the company or project trying to solve?
+Square offers a suite of products and financial services to help every business succeed.  The company has grown its committments to sellers over the years, evolving its suite of dynamic business tools and integrating business banking services into its platform to offer loans to its diverse customer pool and facilitate business funding.  Square's key offerings included:
 
-Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+### Commerce Solutions
+- **Square Point of Sale (POS)**: Square offers a variety of POS devices & software for restaurants, retails, and all other kinds of businesses
+- **Square Online**: Square offers an eCommerce platorm to design your restaurant or retail website online and integrate with Square POS devices
+- **Square Payments**: Square offers multiple payment processing methods to enable customer sales, including in-person, online, or remote (invoice) payments.
+
+### Banking for Businesses
+- **Square Checking**: Access your Square sales instantly
+- **Square Debit**: Square sales can be instantly used in the form of debit
+- **Square Savings**: Earn 0.5% APY in savings (8x the national savings average)
+- **Small Business Loans**: Automated loans up to $250K based on Square sales
+
+### Customer Relationship Management (CRM) Software
+- **Square Customer Directory**: CRM software built into Square payment tools to analyze customer relationships and help drive customer management decisions
+- **Square Marketing**: Email marketing software to design custom company emails, set up automated campaigns, analyze marketing efforts.
+- **Square Loyalty**: Build a customized customer loyalty program directly from your Square payments tool
+
+### Business Administration & Management
+- **Square Payroll**: Full service payroll, employee benefit, and tax filing solution
+- **Square Team Management**: Schedule, manage, and pay your team from your Square POS device
+
+### Beyond Square for Merchants - Other Offerings for Customers of Merchants
+- **Cash App**: Send & spend money, deposit funds, or invest in stocks or Bitcoin through Square's Cash App 
+
+
+While Square's target market is primarily small to medium size businesses in the retail and food/beverage sectors, the company markets solutions for all types of business, no matter the size.  Outside of retail and food/beverage, Square focuses its product marketing efforts on its website towards profressional services (e.g., accountants & other financial advisory services, health & fitness businesses, beauty services, and home & repair businesses) as well as large business.  For large businesses, Square focuses its marketing on deliverying an ecosystem of connected tools enhance the customer experience, simplify business administration & management, and track customer relationships.
+
+In an interview with B2B News Network in 2017, Jack Dorsey clearly identified Square's competitive advantage to other competitors:
+
+>“There have always been some differentiators, but the most important has been our cohesiveness,” he said. “We’re not just payments or POS but a suite of tools to help our sellers. The first critical thing was to enable sellers to make the sale. Then it was organizing the information to make more sales.
+>“Being able to see your business helps you make decisions, about inventory and how to market,” he said, adding that creating an experience where “the hardware and software goes away” with speed and self-service is important so that businesses can focus on things that are really important to them. “The elegance of our solution is unique to us. It all works together and you don’t have to think too much about it.”
+
+~[Jack Dorsey](https://www.b2bnn.com/2017/10/jack-dorsey-sums-squares-competitive-advantage-attracting-independent-merchants/)
 
 Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
@@ -77,3 +108,12 @@ This project exists thanks to all the people who contribute:
 Nick Baronti
 
 ### References
+
+- [Square](https://www.investopedia.com/articles/tech/021017/square.asp)
+- [Square](https://talkroute.com/jack-dorsey-mind-behind-twitter-and-square/)
+- [Square](https://www.yahoo.com/now/heres-much-investing-1-000-002148394.html)
+- [Square](https://www.crunchbase.com/organization/square/company_financials)
+- [Square](https://en.wikipedia.org/wiki/Square_(financial_services_company))
+- [Square](https://squareup.com/us/en/about)
+- [Square](https://www.fool.com/investing/2018/11/21/square-stock-history-a-complete-timeline.aspx)
+https://squareup.com/us/en/solutions/run-your-business
