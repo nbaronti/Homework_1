@@ -12,7 +12,7 @@ This Git repository contains a case study for Square Inc. ("Square"), a financia
 ## Table of Contents
 
 - [Square Overview and Company Origin](#Square-Overview-and-Company-Origin)
-- [Key Products/Services and Target Market](#Key-Products/Service-and-Target-Market)
+- [Key Products, Services, and Target Market](#Key-Products,-Services,-and-Target-Market)
 - [Company Landscape](#Company-Landscape)
 - [Company Mission, Core Metrics, and Performance](#Company-Mission,-Core-Metrics,-and-Performance)
 - [Recent Acquisitions and Potential Future Products](#Recent-Acquisitions-and-Potential-Future-Products)
@@ -34,7 +34,7 @@ Put simply, the company has a clear goal of creating tools to empower and enrich
 
 ~via [Square](https://squareup.com/us/en/about)
 
-## Key Products/Services and Target Market 
+## Key Products, Services, and Target Market 
 
 Square offers a suite of products and financial services to help every business succeed.  The company has grown its committments to sellers over the years, evolving its suite of dynamic business tools and integrating business banking services into its platform to offer loans to its diverse customer pool and facilitate business funding.  Square's key offerings included:
 
@@ -129,15 +129,15 @@ Some of the key metrics that Square uses to measure its success are outlined bel
 
     - **Customer Aquisition Costs**: Represents the cost to acquire each new Cash App customer.
 
-        -Network effects of peer-to-peer transactions on the Cash App have allowed Square to maintain low customer acquisition costs of approximately $5 per new transacting active customer.
+        - Network effects of peer-to-peer transactions on the Cash App have allowed Square to maintain low customer acquisition costs of approximately $5 per new transacting active customer.
 
     - **Gross Profit per Customer**: Represents gross profit margin per new transacting active customer on the Cash App.
 
-        -In December 2020, GP per new transacting active customer reached $41, up approximately 70% YOY.
+        - In December 2020, GP per new transacting active customer reached $41, up approximately 70% YOY.
 
     - **Bitcoin Adoption**: Represents the total number of customers that have purchased or sold Bitcoin through the Cash App.
 
-        -In 2020, more than three million customers purchased or sold bitcoin on Cash App, and, in January 2021, more than one million customers purchased bitcoin for the first time.
+        - In 2020, more than three million customers purchased or sold bitcoin on Cash App, and, in January 2021, more than one million customers purchased bitcoin for the first time.
 
 2. **Seller Ecosystem**
 
