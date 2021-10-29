@@ -1,14 +1,13 @@
 ![alt text](https://logos-download.com/wp-content/uploads/2020/06/Square_Logo.png)
 
-# Square Case Study
+# Square Inc. Case Study
 
-This repository contains....
+This repository contains a case study for Square Inc. ("Square"), a financial services and digital payments company.  In recent years, Square has established itself as a dominant player in the rapidly evolving FinTech space.  Square offers products and services across various FinTech domains, with significant marketshare in the following domains: 
 
-1. XXX
-2. XXX
-3. XXX
-4. XXX
-5. XXX
+1. Payments & Billing
+2. Enterprise Solutions
+3. Online Personal Finance, Banking, & Depositing
+4. Blockchain & Crytocurrencies
 
 ## Table of Contents
 
