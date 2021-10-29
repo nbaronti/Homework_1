@@ -1,6 +1,6 @@
 ![alt text](https://logos-download.com/wp-content/uploads/2020/06/Square_Logo.png)
 
-# Square Inc. Case Study
+# Square Inc: Case Study
 
 This Git repository contains a case study for Square Inc. ("Square"), a financial services and digital payments company based out of San Francisco, CA.  In recent years, Square has established itself as a dominant player in the rapidly evolving FinTech space.  Square offers products and services across various FinTech domains, with significant marketshare in the following areas: 
 
@@ -26,14 +26,12 @@ According to crunchbase.com, Square has raised a total of $601.2M over 11 rounds
 
 Since it's IPO, Square has evolved its product & service offerings well beyond its initial Square Reader.  Square now offers an extenstive suite of additional digital payment, commerce, and banking solutions for companys of all sizes within varying industries.  In addition, Square has created new products to not only support merchants, but also support the customers of merchants.
 
-Put simply, the company has a clear goal of creating tools to empower and enrich all people.
+Put simply, the company has a clear goal of creating tools to empower and enrich all people.  An excerpt from the company's website states the following:
 
-An excerpt from the company's website states the following:
+> No one should be left out of the economy because the cost is too great or the technology too complex.
+> So we’re building easy tools to empower and enrich people. Tools that shorten the distance between having an idea and making a living from it—because we believe in fair and square.
 
-> "No one should be left out of the economy because the cost is too great or the technology too complex."
-> "So we’re building easy tools to empower and enrich people. Tools that shorten the distance between having an idea and making a living from it—because we believe in fair and square."
-
-~ [About Square](https://squareup.com/us/en/about)
+~via [About Square](https://squareup.com/us/en/about)
 
 ## Business Activities
 
