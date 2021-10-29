@@ -39,27 +39,27 @@ Put simply, the company has a clear goal of creating tools to empower and enrich
 Square offers a suite of products and financial services to help every business succeed.  The company has grown its committments to sellers over the years, evolving its suite of dynamic business tools and integrating business banking services into its platform to offer loans to its diverse customer pool and facilitate business funding.  Square's key offerings included:
 
 ### Commerce Solutions
-- **Square Point of Sale (POS)**: Square offers a variety of POS devices & software for restaurants, retails, and all other kinds of businesses
-- **Square Online**: Square offers an eCommerce platorm to design your restaurant or retail website online and integrate with Square POS devices
-- **Square Payments**: Square offers multiple payment processing methods to enable customer sales, including in-person, online, or remote (invoice) payments.
+- [**Square Point of Sale (POS)**](https://squareup.com/us/en/point-of-sale): Square offers a variety of POS devices & software for restaurants, retails, and all other kinds of businesses
+- [**Square Online**](https://squareup.com/us/en/online-store): Square offers an eCommerce platorm to design your restaurant or retail website online and integrate with Square POS devices
+- [**Square Payments**](https://squareup.com/us/en/payments): Square offers multiple payment processing methods to enable customer sales, including in-person, online, or remote (invoice) payments.
 
 ### Banking for Businesses
-- **Square Checking**: Access your Square sales instantly
-- **Square Debit**: Square sales can be instantly used in the form of debit
-- **Square Savings**: Earn 0.5% APY in savings (8x the national savings average)
-- **Small Business Loans**: Automated loans up to $250K based on Square sales
+- [**Square Checking**](https://squareup.com/us/en/banking/checking): Access your Square sales instantly
+- [**Square Debit**](https://squareup.com/us/en/banking/checking): Square sales can be instantly used in the form of debit
+- [**Square Savings**](https://squareup.com/us/en/banking/savings): Earn 0.5% APY in savings (8x the national savings average)
+- [**Small Business Loans**](https://squareup.com/us/en/banking/loans): Automated loans up to $250K based on Square sales
 
 ### Customer Relationship Management (CRM) Software
-- **Square Customer Directory**: CRM software built into Square payment tools to analyze customer relationships and help drive customer management decisions
-- **Square Marketing**: Email marketing software to design custom company emails, set up automated campaigns, analyze marketing efforts.
-- **Square Loyalty**: Build a customized customer loyalty program directly from your Square payments tool
+- [**Square Customer Directory**](https://squareup.com/us/en/point-of-sale/features/customer-directory): CRM software built into Square payment tools to analyze customer relationships and help drive customer management decisions
+- [**Square Marketing**](https://squareup.com/us/en/software/marketing): Email marketing software to design custom company emails, set up automated campaigns, analyze marketing efforts.
+- [**Square Loyalty**](https://squareup.com/us/en/software/loyalty): Build a customized customer loyalty program directly from your Square payments tool
 
 ### Business Administration & Management
-- **Square Payroll**: Full service payroll, employee benefit, and tax filing solution
-- **Square Team Management**: Schedule, manage, and pay your team from your Square POS device
+- [**Square Payroll**](https://squareup.com/us/en/payroll): Full service payroll, employee benefit, and tax filing solution
+- [**Square Team Management**](https://squareup.com/us/en/point-of-sale/team-management): Schedule, manage, and pay your team from your Square POS device
 
 ### Beyond Square for Merchants - Other Offerings for Customers of Merchants
-- **Cash App**: Send & spend money, deposit funds, or invest in stocks or Bitcoin through Square's Cash App 
+- [**Cash App**](https://cash.app/): Send & spend money, deposit funds, or invest in stocks or Bitcoin through Square's Cash App 
 
 While Square's target market is primarily small to medium size businesses in the retail and food/beverage sectors, the company markets solutions for all types of business, no matter the size.  Outside of retail and food/beverage, Square focuses its product marketing efforts on its website towards profressional services (e.g., accountants & other financial advisory services, health & fitness businesses, beauty services, and home & repair businesses) as well as large business.  For large businesses, Square focuses its marketing on deliverying an ecosystem of connected tools enhance the customer experience, simplify business administration & management, and track customer relationships.
 
@@ -71,20 +71,45 @@ In an interview with B2B News Network in 2017, Jack Dorsey clearly identified Sq
 
 ~[Jack Dorsey](https://www.b2bnn.com/2017/10/jack-dorsey-sums-squares-competitive-advantage-attracting-independent-merchants/)
 
-In terms of technology, Square utilizes a handful of programming languages and database techonologies in the development of its software technologies.  According to Square's company profile on Stackshare.io, the company uses technologies such as (but not limited to):
+In terms of technology, Square utilizes a handful of programming languages and database techonologies in the development of its software applications.  According to Square's company profile on Stackshare.io, the company uses software development technologies such as (but not limited to):
 
 - **Programming Languages**: Ruby, Javascript, Objective-C
 - **Database Technology**: MySQL, Redis, Vertica
 - **Cloud Storage**: AWS EC2, Snowflake
 - **Application Development**: Firebase
 
+Beyond its software applications, Square also leverages newer technology to enable its POS devices and readers to accept customer payments.  One specific technology is called NFC or "Near Field Communication".  This technology enables smartphones & reader devices to communicate and execute secure, contactless payment through Apple Pay or Google Payment.
+
+Last but not least, Square manufactures its own POS devices (i.e., restaurant card readers, in-store tablets, and other larger POS systems).
+
 ## Company Landscape
 
-What domain of the financial industry is the company in?
+As eluded to in the introduction, the primary FinTech domains in which Square operates are (1) Enterprise Solutions, (2) Payments & Billing, (3) Online Personal Finance, Banking, & Depositing, and (4) Blockchain & Crytocurrencies.  Over the last 5 - 10 years, these domains have seen major innovations along with the rise of competitors.  In particular, the following list includes innovations and competitors as it relates to Square's FinTech domains:
 
-What have been the major trends and innovations of this domain over the last 5-10 years?
+1. **Enterprise Commerce Solutions**:
 
-What are the other major companies in this domain?
+- **Major Innovations**: Advanced software & hardware capabilities enable small-to-mid size businesses to streamline in-person sales, simplify web-based sales, and track customer relationships through CRM tools
+
+- **Top Square Competitors in this Domain**: PayPal Zettle, SumUp, Shopify, Toast (Restaurants), Vend (Retail), Clover
+
+2. **Payments & Billing**:
+
+- **Major Innovations**: Advanced software & hardware capabilities (such as POS systems and other payment acceptance technologies (e.g., NFC)) enable simplified customer payment processing and billing & invoicing.
+
+- *Top Square Competitors in this Domain*: PayPal Zettle, SumUp, Shopify, Toast (Restaurants), Vend (Retail), Clover
+
+3. **Online Personal Finance, Banking, & Depositing**
+
+- **Major Innovations**: The introduction of mobile payment & banking apps such as Square's Cash App have revolutionized the way in which people send, spend, deposit, and invest money.  Additionally, banking and lending for small-to-mid size businesses has become much more accesible through programs such as Square Checking, Debit, & Savings.  Through immediate online banking, businesses are able to instantaneously secure loans or access money based on customer sales.
+
+- *Top Square Competitors in this Domain*: PayPal, Zelle, Google Pay, Venmo
+
+4. **Blockchain & Crytocurrencies**
+
+- **Major Innovations**: The introduction of cryptocurrencies over the last 10 years has created an entire ecosystem of mobile payment and investing applications that can be used to buy and sell cryptocurrencies.  Most of these applications enable customers to deposit funds, purchase alternative currencies, and send those currencies cross-border with limited roadblocks due to decentralization.
+
+- *Top Square Competitors in this Domain*: PayPal, Venmo, Coinbase, and other Cryptocurrency Wallets
+
 
 ## Business Impact, Core Metrics, & Performance
 
@@ -129,3 +154,4 @@ Why are these technologies appropriate for your solution?
 - [**Square Website**: Product & Service Offerings](https://squareup.com/us/en/solutions/run-your-business)
 - [**Motley Fool**: Square History & Timeline](https://www.fool.com/investing/2018/11/21/square-stock-history-a-complete-timeline.aspx)
 - [**Stackshare**: Company Techonolgies](https://stackshare.io/square/square)
+- [](https://www.nerdwallet.com/article/small-business/square-competitors)
