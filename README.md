@@ -66,11 +66,17 @@ While Square's target market is primarily small to medium size businesses in the
 In an interview with B2B News Network in 2017, Jack Dorsey clearly identified Square's competitive advantage to other competitors:
 
 >“There have always been some differentiators, but the most important has been our cohesiveness,” he said. “We’re not just payments or POS but a suite of tools to help our sellers. The first critical thing was to enable sellers to make the sale. Then it was organizing the information to make more sales.
+
 >“Being able to see your business helps you make decisions, about inventory and how to market,” he said, adding that creating an experience where “the hardware and software goes away” with speed and self-service is important so that businesses can focus on things that are really important to them. “The elegance of our solution is unique to us. It all works together and you don’t have to think too much about it.”
 
 ~[Jack Dorsey](https://www.b2bnn.com/2017/10/jack-dorsey-sums-squares-competitive-advantage-attracting-independent-merchants/)
 
-Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+In terms of technology, Square utilizes a handful of programming languages and database techonologies in the development of its software technologies.  According to Square's company profile on Stackshare.io, the company uses technologies such as (but not limited to):
+
+- **Programming Languages**: Ruby, Javascript, Objective-C
+- **Database Technology**: MySQL, Redis, Vertica
+- **Cloud Storage**: AWS EC2, Snowflake
+- **Application Development**: Firebase
 
 ## Company Landscape
 
@@ -105,17 +111,21 @@ Why are these technologies appropriate for your solution?
 *This project exists thanks to those who contributed:*
 
 **Nick Baronti**
-nabaronti@gmail.com
-847-239-0734
-https://www.linkedin.com/in/nick-baronti/
+
+- **Email**: nabaronti@gmail.com
+
+- **Phone**: 847-239-0734
+
+- **LinkedIn**: https://www.linkedin.com/in/nick-baronti/
 
 ### References
 
 - [**Investopedia**: Square Company Backgroup](https://www.investopedia.com/articles/tech/021017/square.asp)
 - [**Talk Route**: Founding Square](https://talkroute.com/jack-dorsey-mind-behind-twitter-and-square/)
 - [**Yahoo Finance**: Square IPO](https://www.yahoo.com/now/heres-much-investing-1-000-002148394.html)
-- [**Crunchbase**: Square Funding**](https://www.crunchbase.com/organization/square/company_financials)
-- [**Wikipedia**: Square Background & Company Overview**](https://en.wikipedia.org/wiki/Square_(financial_services_company))
+- [**Crunchbase**: Square Funding](https://www.crunchbase.com/organization/square/company_financials)
+- [**Wikipedia**: Square Background & Company Overview](https://en.wikipedia.org/wiki/Square_(financial_services_company))
 - [**Square Website**: About Square](https://squareup.com/us/en/about)
 - [**Square Website**: Product & Service Offerings](https://squareup.com/us/en/solutions/run-your-business)
 - [**Motley Fool**: Square History & Timeline](https://www.fool.com/investing/2018/11/21/square-stock-history-a-complete-timeline.aspx)
+- [**Stackshare**: Company Techonolgies](https://stackshare.io/square/square)
