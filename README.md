@@ -11,15 +11,15 @@ This Git repository contains a case study for Square Inc. ("Square"), a financia
 
 ## Table of Contents
 
-- [Square Overview & Company Origin](#Square-Overview-&-Company-Origin)
-- [Key Products/Services & Target Market](#Key-Products/Services-&-Target-Market)
+- [Square Overview and Company Origin](#Square-Overview-and-Company-Origin)
+- [Key Products/Services and Target Market](#Key-Products/Service-and-Target-Market)
 - [Company Landscape](#Company-Landscape)
-- [Business Impact, Core Metrics, & Performance](#Business-Impact,-Core-Metrics,-&-Performance)
-- [Recent Acquisitions & Potential Future Products](#Recent-Acquisitions-&-Potential-Future-Products)
+- [Company Mission, Core Metrics, and Performance](#Company-Mission,-Core-Metrics,-and-Performance)
+- [Recent Acquisitions and Potential Future Products](#Recent-Acquisitions-and-Potential-Future-Products)
 - [Contributors](#Contributors)
 - [References](#References)
 
-## Square Overview & Company Origin
+## Square Overview and Company Origin
 
 Square was founded in 2009 by Jack Dorsey and Jim McKelvey.  In the company's infancy, Square started as an idea to enable small businesses to process sales through a mobile payments platform.  Jack Doresey initially envisioned the idea for Square with Jim McKelvey, his former boss who was a high-end faucet & fittings glass blower looking for ways to expand his business's sales by offering additional payment methods beyond traditional cash payments.  The idea for Square eventually evolved into the company's first product, the Square Reader.  This square-shaped device enabled business owners to accept credit card payments by downloading the Square application and connecting the reader to their mobile device.
 
@@ -34,7 +34,7 @@ Put simply, the company has a clear goal of creating tools to empower and enrich
 
 ~via [Square](https://squareup.com/us/en/about)
 
-## Key Products/Services & Target Market 
+## Key Products/Services and Target Market 
 
 Square offers a suite of products and financial services to help every business succeed.  The company has grown its committments to sellers over the years, evolving its suite of dynamic business tools and integrating business banking services into its platform to offer loans to its diverse customer pool and facilitate business funding.  Square's key offerings included:
 
@@ -111,15 +111,49 @@ As eluded to in the introduction, the primary FinTech domains in which Square op
     - **Top Square Competitors in this Domain**: PayPal, Venmo, Coinbase, and other Cryptocurrency Wallets
 
 
-## Business Impact, Core Metrics, & Performance
+## Company Mission, Core Metrics, and Performance
 
-What has been the business impact of this company so far?
+Square has provided thousands of its active sellers with a suite of software, hardware, and financial services to enable their businesses to succeed.  Square's mission statement states: 
 
-What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+>"We believe everyone should be able to participate and thrive in the economy."
 
-How is your company performing relative to competitors in the same domain?
+>"We’re here to help sellers of all sizes start, run, and grow their business—and helping them grow their business is good business for everyone."
 
-## Recent Acquisitions & Potential Future Products
+Some of the key metrics that Square uses to measure its success are outlined below:
+
+1. **Cash App Ecosystem**
+
+    - **New Customer Acquisitions**: Represents growth in monthly transacting active customers on the Cash App.
+
+        - Per Square's latest shareholder letter, the Cash App reached more than 36 million monthly transacting active customer in 2020, representing greater than 50% YOY growth.
+
+    - **Customer Aquisition Costs**: Represents the cost to acquire each new Cash App customer.
+
+        -Network effects of peer-to-peer transactions on the Cash App have allowed Square to maintain low customer acquisition costs of approximately $5 per new transacting active customer.
+
+    - **Gross Profit per Customer**: Represents gross profit margin per new transacting active customer on the Cash App.
+
+        -In December 2020, GP per new transacting active customer reached $41, up approximately 70% YOY.
+
+    - **Bitcoin Adoption**: Represents the total number of customers that have purchased or sold Bitcoin through the Cash App.
+
+        -In 2020, more than three million customers purchased or sold bitcoin on Cash App, and, in January 2021, more than one million customers purchased bitcoin for the first time.
+
+2. **Seller Ecosystem**
+
+    - **Seller GPV (Gross Payment Volume)**: Represents the total gross payment value from Square's seller ecosystem.  Seller GPV is is composed of the total dollar amount of all card payments processed by sellers using Square, net of refunds.
+
+        - Square saw massive growth in omnichannel sellers in 2020.  An omnichannel seller is defined as a seller who has both in-person payments and online channel payments. In Q4 of 2020, GPV from omnichannel and online sellers represented more than half of Square total Seller GPV.
+
+    - **GPV and Gross Profit from Mid-Market Sellers**: Represents the total gross payment value from Square's mid-market sellers (i.e., those generating more than $500K in annualized GPV).
+
+        - In Q4 2020, Square's GPV from mid-market sellers grew 27% YOY.
+
+On the whole, Square has performed exceptionally well relative to its peers.  In terms of recent annual performance, Square grew its total revenue to $9.5B in 2020, representing a 101% increase compared to 2019.  A large driver in revenue growth was Bitcoin purchased within the Cash App.  In terms of profits, Square grew its total gross profits by 45% in 2020, up to $2.7B.
+
+In addition the company's financial performance, Square's common stock (Ticker: SQ) has also performed incredibly strong compared to the overall stock market.  The stock has grown by over 300% since January 2020.
+
+## Recent Acquisitions and Potential Future Products
 
 If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
@@ -129,9 +163,7 @@ What technologies would this additional product or service utilize?
 
 Why are these technologies appropriate for your solution?
 
-#
-
-### Contributors
+## Contributors
 
 *This project exists thanks to those who contributed:*
 
@@ -143,7 +175,7 @@ Why are these technologies appropriate for your solution?
 
 - **LinkedIn**: https://www.linkedin.com/in/nick-baronti/
 
-### References
+## References
 
 - [**Investopedia**: Square Company Backgroup](https://www.investopedia.com/articles/tech/021017/square.asp)
 - [**Talk Route**: Founding Square](https://talkroute.com/jack-dorsey-mind-behind-twitter-and-square/)
@@ -152,6 +184,9 @@ Why are these technologies appropriate for your solution?
 - [**Wikipedia**: Square Background & Company Overview](https://en.wikipedia.org/wiki/Square_(financial_services_company))
 - [**Square Website**: About Square](https://squareup.com/us/en/about)
 - [**Square Website**: Product & Service Offerings](https://squareup.com/us/en/solutions/run-your-business)
+- [**Square Website**: NFC](https://squareup.com/us/en/nfc)
 - [**Motley Fool**: Square History & Timeline](https://www.fool.com/investing/2018/11/21/square-stock-history-a-complete-timeline.aspx)
-- [**Stackshare**: Company Techonolgies](https://stackshare.io/square/square)
-- [](https://www.nerdwallet.com/article/small-business/square-competitors)
+- [**Stackshare**: Software Development Techonolgies](https://stackshare.io/square/square)
+- [**Nerdwallet**: Top Competitors](https://www.nerdwallet.com/article/small-business/square-competitors)
+- [**2020 Square Shareholder Letter**](https://s27.q4cdn.com/311240100/files/doc_financials/2020/q4/2020-Q4-Shareholder-Letter-Square.pdf)
+- [**2020 Square 10-K Report**](https://s27.q4cdn.com/311240100/files/doc_financials/2020/q4/Square-10K-2020.pdf)
