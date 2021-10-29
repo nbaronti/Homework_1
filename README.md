@@ -12,9 +12,9 @@ This Git repository contains a case study for Square Inc. ("Square"), a financia
 ## Table of Contents
 
 - [Square Overview and Company Origin](#Square-Overview-and-Company-Origin)
-- [Key Products, Services, and Target Market](#Key-Products,-Services,-and-Target-Market)
+- [Key Products, Services, and Target Market](#Key-Products-Services-and-Target-Market)
 - [Company Landscape](#Company-Landscape)
-- [Company Mission, Core Metrics, and Performance](#Company-Mission,-Core-Metrics,-and-Performance)
+- [Company Mission, Core Metrics, and Performance](#Company-Mission-Core-Metrics-and-Performance)
 - [Recent Acquisitions and Potential Future Products](#Recent-Acquisitions-and-Potential-Future-Products)
 - [Contributors](#Contributors)
 - [References](#References)
